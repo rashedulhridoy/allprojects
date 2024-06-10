@@ -1,5 +1,5 @@
 # Follow This Prompt
->✗ Dont Share To Anyone
+✗ Dont Share To Anyone
 
 # Keyword Research Prompt
 ```bash
