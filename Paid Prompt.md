@@ -2,10 +2,13 @@
 >✗ Dont Share To Anyone
 
 # Keyword Research Prompt
->Provide 5 keywords (((Please Focus on Low Compititation and Highest Search Volume))) for this: [PARAGRAPHS]
+```bash
+Provide 5 keywords (((Please Focus on Low Compititation and Highest Search Volume))) for this: [PARAGRAPHS]
+```
 
 
 # Article Sections
+
 Generate an outline for [TOPIC-SENTENCE]
 
 Suggest 5 titles for the following abstract: [ABSTRACT-PARAGRAPH]
@@ -17,49 +20,55 @@ Generate an abstract for a scientific paper based on this information for: [PARA
 I want to write a journal article about [TOPIC-SENTENCE]. Give me an outline for the article that I can use as a starting point.
 
 # Prompt 1
-
->Write a product description for [product-name], including specifications, features, benefits, and any additional relevant information 
+```bash
+Write a product description for [product-name], including specifications, features, benefits, and any additional relevant information 
+```
 
 
 # Prompt H4CK
-
->Write a article for using this Main keywords "keywords" and add Sub-Keywords "sub-keywords" in This Article (((remember keywords must be add in this article))), including specifications, features, benefits, and any additional relevant information (((Please Should be Focus on Highest Readability))).
+```bash
+Write a article for using this Main keywords "keywords" and add Sub-Keywords "sub-keywords" in This Article (((remember keywords must be add in this article))), including specifications, features, benefits, and any additional relevant information (((Please Should be Focus on Highest Readability))).
+```
 
 
 
 
 >{then}
-
->"write you description title here!" 
+```bash
+"write you description title here!" 
 (focus this (i need to this unique re-write)). 
 write me longest description
 for highest readability with 300 words.
+```
 
 
 # Prompt 2
-
+```bash
 Write a long form blog post about [topic]. The target audience is [target audience], and the tone should be [friendlytone]. The post should have the following sections: [section 1], [section 2], etc.
+```
 
 
 # Prompt X Update 3.0
 
->Please generate a blog post of 1000 words & Focus on This Blog Post (((Highest Readability))) about the benefits of [yourproducts]. 
-The post should provide specific examples 
-and be like Human written in an informative and engaging style.
->
->{then}
->
->Generate a long blog post (((please focus one highest readability))) on this line of 
-[insert-topic-here]. Your post should have an engaging introduction, body, and conclusion, 
-and include relevant information and examples.
-
-# Prompt 3
-
+```bash
 Please generate a blog post of 1000 words & Focus on This Blog Post (((Highest Readability))) about the benefits of [yourproducts]. 
 The post should provide specific examples 
 and be like Human written in an informative and engaging style.
+```
+>{then}
+```bash
+Generate a long blog post (((please focus one highest readability))) on this line of 
+[insert-topic-here]. Your post should have an engaging introduction, body, and conclusion, 
+and include relevant information and examples.
+```
 
+# Prompt 3
+```bash
+Please generate a blog post of 1000 words & Focus on This Blog Post (((Highest Readability))) about the benefits of [yourproducts]. 
+The post should provide specific examples 
+and be like Human written in an informative and engaging style.
 Context: "Your Product Title"
+```
 
 # Prompt 4
 
@@ -83,8 +92,8 @@ Frontload the argument in the following paragraph: [PARAGRAPH]
 Explain [TOPIC] as an analogy
 
 # Seo Prompt
-
->Using WebPilot, create an outline for an article that will be 2,000 words on the 
+```bash
+Using WebPilot, create an outline for an article that will be 2,000 words on the 
 keyword 'Enter Your Main Keyword' and 'Enter Your Sub Keyword' This is My Sub keywords based on the top 10 results from Google. 
 Include every relevant heading possible. Keep the keyword density of the headings high. For each 
 section of the outline, include the word count. Include FAQs section in the outline 
@@ -94,6 +103,7 @@ Generate a long list of LSI and NLP keywords related to my keyword. Also include
 other words related to the keyword. Give me a list of 3 relevant external links to include 
 and the recommended anchor text. Make sure they’re not competing articles. 
 Split the outline into part 1 and part 2.
+```
 
 # Blogging Prompt
 
@@ -170,4 +180,3 @@ Suggest novel applications of [TOPIC SENTENCE] within [RESEARCH-DOMAIN]
 
 
 ### Made By **[Rashedul Hridoy](https://rashedulhridoy.github.io)**
-
