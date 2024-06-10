@@ -29,11 +29,8 @@ Write a product description for [product-name], including specifications, featur
 ```bash
 Write a article for using this Main keywords "keywords" and add Sub-Keywords "sub-keywords" in This Article (((remember keywords must be add in this article))), including specifications, features, benefits, and any additional relevant information (((Please Should be Focus on Highest Readability))).
 ```
+> And
 
-
-
-
->{then}
 ```bash
 "write you description title here!" 
 (focus this (i need to this unique re-write)). 
@@ -55,7 +52,7 @@ Please generate a blog post of 1000 words & Focus on This Blog Post (((Highest R
 The post should provide specific examples 
 and be like Human written in an informative and engaging style.
 ```
->{then}
+> And
 ```bash
 Generate a long blog post (((please focus one highest readability))) on this line of 
 [insert-topic-here]. Your post should have an engaging introduction, body, and conclusion, 
