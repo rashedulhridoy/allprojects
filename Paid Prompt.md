@@ -32,7 +32,7 @@ Write a article for using this Main keywords "keywords" and add Sub-Keywords "su
 > And
 
 ```bash
-"write you description title here!" 
+"write you description line here!" 
 (focus this (i need to this unique re-write)). 
 write me longest description
 for highest readability with 300 words.
