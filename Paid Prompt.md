@@ -5,8 +5,8 @@
 
 # Keyword Research Prompt
 
-> [!NOTE] Use As Your Wish
-> Sometimes It's Worked !
+> [!NOTE]
+> Use As Your Wish, Sometimes It's Worked !
  
 ```bash
 Provide 5 keywords (((Please Focus on Low Compititation and Highest Search Volume))) for this: [PARAGRAPHS]
