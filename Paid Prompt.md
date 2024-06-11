@@ -95,6 +95,7 @@ Write a article for using this Main keywords "keywords" and add Sub-Keywords "su
 (focus this (i need to this unique re-write)). 
 write me longest description
 for highest readability with 300 words.
+My Product Name is: "Product-Name"
 ```
 
 
