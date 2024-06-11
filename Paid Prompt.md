@@ -64,7 +64,7 @@ write a (((Introduction))) focus on Highest Readability and write With over (100
 # Market Research Prompt
 
 > [!NOTE]
-> I am Not Sure :"(, But Your Try Once a Time. If It's Work's Then It's Good.
+> I am Not Sure :"( , But Your Try Once a Time. If It's Work's Then It's Good.
 
 ```bash
 `Your-Products` please summarize this market research report into a few bullet points. Then, analyze the data to highlight the top three opportunities for my business, along with any potential risks I should be aware of.
