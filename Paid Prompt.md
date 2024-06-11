@@ -2,10 +2,9 @@
 
 >[!CAUTION] Dont Share To Anyone
 
-
 # Keyword Research Prompt
 
-> [!Note] Use As Your Wish
+> [!NOTE] Use As Your Wish
 > Sometimes It's Worked !
  
 ```bash
