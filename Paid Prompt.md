@@ -1,7 +1,7 @@
 # Follow This Prompt
 
->[!NOTE] Notice
->Don't Share Anyone
+> [!NOTE]
+> I am Not Sure :"(, But Your Try Once a Time. If It's Work's Then It's Good.
 
 # Keyword Research Prompt
 
