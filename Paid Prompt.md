@@ -5,7 +5,7 @@
 
 # Keyword Research Prompt
 
-> [!NOTE] Use As Your Wish
+> [!Note] Use As Your Wish
 > Sometimes It's Worked !
  
 ```bash
