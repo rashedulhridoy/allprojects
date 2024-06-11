@@ -1,6 +1,6 @@
 # Follow This Prompt
 
-> [!CAUTION][Warning]
+> [!CAUTION][
 > Don't Share Anyone
 
 # Keyword Research Prompt
