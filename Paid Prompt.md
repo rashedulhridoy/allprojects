@@ -159,10 +159,10 @@ Draft a short, friendly email introducing myself as a freelance [your expertise]
 # Active Voice Prompt
 
 > [!TIP]
-> It's Worked !
+> Worked !
 
 ```bash
-"Your style preferences, be they bold and daring or classic and chic, are accommodated by this bra's design.” Please re-write this and write it in an Active Voice. When writing, use the tune as marketing.
+"Enter Your Paragraph Line Here” Please re-write this and write it in an Active Voice. When writing, use the tune as marketing.
 ```
 
 # Prompt 5
