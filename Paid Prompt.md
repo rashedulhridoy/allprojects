@@ -156,6 +156,15 @@ Generate a long blog post [please focus one highest readability] on the topic of
 Draft a short, friendly email introducing myself as a freelance [your expertise]. Include these points: [list your key skills]. End with a question to encourage a response.
 ```
 
+# Active Voice Prompt
+
+> [!TIP]
+> It's Worked !
+
+```bash
+"Your style preferences, be they bold and daring or classic and chic, are accommodated by this bra's design.” Please re-write this and write it in an Active Voice. When writing, use the tune as marketing.
+```
+
 # Prompt 5
 
 > [!NOTE]
