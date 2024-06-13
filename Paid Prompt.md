@@ -31,7 +31,11 @@ Split the outline into part 1 and part 2.
 > Next
 
 ```bash
-" Enter Your Outline " this is my outline. " Enter Your Shopify product Title " This is My Shopify Product Title. " Enter Your Main Keyword " This is My Main Keyword (((Main Keywords Included in My Article))) " Enter Your Sub Keywords " This is My Sub Keyword [Please Sub Keywords Also included in My Article] I Hope You Can Undestand. So Now You Write me an Article and Follow This Outline.
+" Enter Your Outline " this is my outline. " Enter Your Shopify product Title " This is My Shopify Product Title.
+" Enter Your Main Keyword " This is My Main Keyword (((Main Keywords Included in My Article)))
+" Enter Your Sub Keywords " This is My Sub Keyword [Please Sub Keywords Also included in My Article]
+I Hope You Can Undestand.
+So Now You Write me an Article and Follow This Outline.
 ```
 > and
 ```bash
