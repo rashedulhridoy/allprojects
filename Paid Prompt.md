@@ -19,7 +19,7 @@ Provide 5 keywords (((Please Focus on Low Compititation and Highest Search Volum
 > and
 
 ```bash
-"Enter Your Main Keywords"  this is my keyword plz give me 10 meta description 160 character
+"Enter Your Main Keywords"  this is my keyword plz give me meta description 160 character
 ```
 
 # Seo Prompt
