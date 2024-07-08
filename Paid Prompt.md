@@ -28,6 +28,11 @@ Provide 5 keywords (((Please Focus on Low Compititation and Highest Search Volum
 > This is Import Prompt For Your Digital Marketing
 
 ```bash
+"Enter Your Main Keywords" is my main keyword for the blog post. Keep it at the beginning. Please make a shopify product title with this keyword and keep 60 characters.
+```
+> Next
+
+```bash
 Using WebPilot, create an outline for an article that will be 2,000 words on the 
 keyword 'Enter Your Main Keyword' and 'Enter Your Sub Keyword' This is My Sub keywords based on the top 10 results from Google. 
 Include every relevant heading possible. Keep the keyword density of the headings high. For each 
