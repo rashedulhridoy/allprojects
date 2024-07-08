@@ -50,9 +50,8 @@ Split the outline into part 1 and part 2.
 "Enter Your Shopify Product Title" is my Shopify product title, and "Enter Your Main Keywords"
 is my main keyword for the Shopify product title. Keep it at the beginning and end in a natural
 way and also add this "Enter Your Main Keywords” Enter Your Sub Keywords" keywords in whole article.
-Then, write the topic "Spotlight on the Pandora Neon Green Bikini Top".
-The sub topic is "Focus on the eye-catching color (neon green) of the top,
-briefly describe the style and design of the Pandora top and Mention the flattering features or benefits of the top".
+Then, write the topic "Enter Your Main Topic".
+The sub topic is "Enter Your Sub Topic".
 Please write a topic for me and add 20 Transition Words and An Active Voice.
 When writing, use the tune for friendliness and also check and fix grammar error.
 Please write 300 words for this topic. Also, provide some good outbound link to rank in google.
