@@ -54,7 +54,7 @@ Then, write the topic "Enter Your Main Topic".
 The sub topic is "Enter Your Sub Topic".
 Please write a topic for me and add 20 Transition Words and An Active Voice.
 When writing, use the tune for friendliness and also check and fix grammar error.
-Please write 300 words for this topic. Also, provide some good outbound link to rank in google.
+Please write [ Add Your Custom Words ] words for this topic. Also, provide some good outbound link to rank in google.
 ```
 
 > More
