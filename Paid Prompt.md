@@ -44,7 +44,8 @@ other words related to the keyword. Give me a list of 3 relevant external links 
 and the recommended anchor text. Make sure they’re not competing articles. 
 Split the outline into part 1 and part 2.
 ```
-> Next
+> [!IMPORTANT]
+> This is Useful For Blog Posts
 
 ```bash
 "Enter Your Shopify Product Title" is my Shopify product title, and "Enter Your Main Keywords"
